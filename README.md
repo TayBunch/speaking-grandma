@@ -6,8 +6,7 @@
 2. Manipulate strings correctly.
 3. Evaluate the type case of a string.
 
-## Instructions
-
+## Instruction
 1. Fork and clone this lab.
 2. Run the test suite using either the `rspec` or `learn test` command. You'll be coding your solution in `grandma.rb`.
 3. Write a `speak_to_grandma` method. 
